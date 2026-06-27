@@ -172,7 +172,7 @@ The Streamlit application will launch in your browser.
 # 📋 Example Query
 
 ```text
-Research the impact of Artificial Intelligence in Healthcare.
+Quantum computing breakthroughs in 2025
 ```
 
 ---
